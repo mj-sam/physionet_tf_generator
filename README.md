@@ -1,4 +1,4 @@
-# Physionet For Python and Deep learning
+# Physionet for Python and Deep learning
 This code will load and convert physionet edf file to binary file in NumPy. Also, an example of how to use these binary files as a Generator for TensorFlow is included
 
 # Getting Started
